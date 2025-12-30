@@ -1,0 +1,3 @@
+pip install dotenv
+pip install reportlab
+pip install google-generativeai
